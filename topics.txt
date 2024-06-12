@@ -1,0 +1,57 @@
+•	Visualization with Matplotlib
+    o	https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html
+    •	Save figures to file
+    •	2 figures in one panel
+
+1)	Simple Line Plots
+    a.	Line color and styles
+    b.	Axes limits
+    c.	Labeling plots
+2)	Simple Scatter Plots
+    a.	plt.plot vs plt.scatter
+3)	Visualizing Errors
+    a.	Basic Errorbars
+    b.	Continuous Errors
+4)	Density and Contour Plots
+    a.	Visualizing 3D Function
+5)	Histograms, Binnings, and Density
+    a.	2D Histograms
+    b.	Hexagonal binnings
+    c.	Kernel density
+6)	Customizing Plot Legends
+    a.	Choosing Elements for the Legend
+    b.	Legend for Size of Points
+    c.	Multiple Legends
+7)	Customizing Colorbars
+    a.	Choosing the Colormap
+    b.	Color limits and extensions
+    c.	Discrete Color Bars
+8)	Multiple Subplots
+    a.	By Hand
+    b.	Grid of subplots
+    c.	Complicated Arrangements
+9)	Text and Annotation
+    a.	Transforms and Text Position
+    b.	Arrows and Annotation
+10)	Customizing Ticks
+    a.	Major and Minor Ticks
+    b.	Hiding ticks or labels
+    c.	Numbers of ticks
+    d.	Fancy Ticks
+11)	Customizing Matplotlib: Configurations and Stylesheets
+    a.	Changing defaults
+    b.	Stylesheets
+12)	Three-Dimensional Plotting in Matplotlib
+    a.	3D Points and Lines
+    b.	3D Contour Points
+    c.	Wireframes and Surface Plots
+    d.	Surface Triangulations
+13)	Geographic Data with Basemap
+    a.	Map Projections
+    b.	Map Background
+    c.	Plotting Data on Maps
+14)	Visualization with Seaborn
+    a.	Histograms
+    b.	Densities
+    c.	Pair Plots
+    d.	Faceted Histograms
